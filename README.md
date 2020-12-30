@@ -50,7 +50,7 @@ Este projeto foi inicializado com o aplicativo [Create React App](https://github
 
 ## - Depois de clonado o repositório, utilize:
 
-    > cd Teste_Up_Lexix
+    > cd Teste_Up_Lexis
 
 ## - Instale as dependências com:
 
