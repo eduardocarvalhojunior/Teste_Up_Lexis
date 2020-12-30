@@ -11,11 +11,7 @@ Apanhei bastante mas fui fazendo com a ajuda do youtube, 3W School, Stack Overfl
 
 
 
-<<<<<<< HEAD
 ## 🎨 Layout
-=======
-### 🎨 Layout
->>>>>>> e2361d625539bbc9a3b5089763d7de674d3a2ed6
 
 
 Me inspirei em umas aulas que assisti no curso da Digital House e nos ultimos filmes que assisti.
