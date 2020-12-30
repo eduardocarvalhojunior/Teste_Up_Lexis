@@ -11,12 +11,7 @@ Apanhei bastante mas fui fazendo com a ajuda do youtube, 3W School, Stack Overfl
 
 
 
-FOTOS ~~~~> 
-
-
-
-
-### 🎨 Layout
+## 🎨 Layout
 
 Me inspirei em umas aulas que assisti no curso da Digital House e nos ultimos filmes que assisti.
 A estrutura foi feita em 3 dias.
@@ -41,12 +36,24 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Este projeto foi inicializado com o aplicativo [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
 
-No diretório do projeto, você pode executar:
+## - Para executar o projeto em sua máquina utilize esse comando no seu terminal do editor:
 
-### `npm start`
+    > git clone https://github.com/eduardocarvalhojunior/Teste_Up_Lexis
+
+## - Depois de clonado o repositório, utilize:
+
+    > cd Teste_Up_Lexix
+
+## - Instale as dependências com:
+
+    > yarn install ou npm install
+
+
+## No diretório do projeto, você pode executar:
+    
+    > yarn start ou npm start
 
 
 Executa o aplicativo no modo de desenvolvimento.
