@@ -11,12 +11,8 @@ Apanhei bastante mas fui fazendo com a ajuda do youtube, 3W School, Stack Overfl
 
 
 
-FOTOS ~~~~> 
-
-
-
-
 ### 🎨 Layout
+
 
 Me inspirei em umas aulas que assisti no curso da Digital House e nos ultimos filmes que assisti.
 A estrutura foi feita em 3 dias.
