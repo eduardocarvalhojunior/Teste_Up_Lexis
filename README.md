@@ -1,5 +1,10 @@
+![Email_upLexis_transparente-07](https://user-images.githubusercontent.com/60022350/103351992-b56e2d80-4a83-11eb-9604-8b47906238bd.png)
 
 
+
+
+
+----
 
 ## 💻 Sobre o projeto
 
